@@ -1,0 +1,49 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle build output
+/build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration files
+local.properties
+.gradle/
+.gradle-cache/
+gradle-app.setting
+
+# Android Studio specific
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Keystore files (do not share!)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Caches
+.cache/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Misc
+*.class
+*.dex
+*.o
+*.so
+*.dll
+*.exe
+*.tmp
+*.lock
